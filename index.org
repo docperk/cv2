@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Doc Perkins</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="favicon.ico">
+    <link href="link href="https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Sacramento" rel="stylesheet" />
+  </head>
+<body>
+<div class="top">
+<img class="top-cloud" src="images/cloud.jpg" alt="cloud-img" />
+  <h1>I'm Doc</h1>
+      <p> A Technical Support Agent / Web Desgner </p>
+<img class="bottom-cloud" src="images/cloud.jpg" alt="cloud-img" />
+<img src="images/mountain.jpg" alt="mountain-img" />
+</div
+<br />
+<hr />
+<div class="middle">
+  <div class="profile">
+    <img src="images/doc.jpg" alt"Randall Perkins" />
+    <h2>Hello</h2>
+    <p class="intro">I am a Second Level Technical Support agent and I managed our SharePoint web site, and our knowledgebase.</p>
+  </div>
+  <hr />
+  <div class="skills">
+    <h2>My Skills</h2>
+    <div class="skill-row">
+      <img class="desktop-img" src="images/desktop.png" alt="desktop-img" />
+      <div>Icons made by <a href="https://www.flaticon.com/authors/monkik" title="monkik">monkik</a> from <a href="https://www.flaticon.com/"      "title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+    <div "skill-text">
+      <h3>Technical Support Agent</h3>
+      <p> I have been in IT support for almost 22 years. I started as a helpdesk agent for Sabre supporting the American Airlines customer in Oct of 1997. At this tiume Sabre was under the umbrellas of AMR same as AA. I moved up and became expert in several diferent fields and then was promoted to the SPOC group or second level agent for a specialized group supporting the Sabre customer.  Sabre split from AMR and became it's own company.  A couple of yerars later it split and sold the IT portion of the company to EDS.  Our SPOC group took on a new role and became RDM, Remote Desktop Support.  A few years later EDS was sold to HP.  HP slit into 2 companys and the IT portion became HPE.  About the time that HPE was merging with DXC, AA insourced our group and a few other groups in the IT group we worked with.</p>
+      <p> <strong>I am proficient in the following:</strong></p>
+    </div>
+      <table cellspacing=20">
+          <tr>
+            <th>
+              Windows
+            </th>
+            <td>
+              ⭐⭐⭐⭐
+            </td>
+            <th>
+              SCCM
+            </th>
+            <td>
+              ⭐⭐⭐
+            </td>
+          </tr>
+          <tr>
+            <th>
+              Active Directoy
+            </th>
+            <td>
+              ⭐⭐⭐⭐
+            </td>
+            <th>
+              Printers
+            </th>
+            <td>
+              ⭐⭐⭐⭐
+            </td>
+          </tr>
+          <tr>
+            <th>
+              Outlook
+            </th>
+            <td>
+              ⭐⭐⭐⭐⭐
+            </td>
+            <th>
+              Office
+            </th>
+            <td>
+                ⭐⭐⭐⭐
+            </td>
+          </tr>
+          </table>
+    <img class="running-img" src="images/1477450.png" alt="running-img" />
+    <h3>I love Running</h3>
+    <p> I started out walking for exercise and to loose weight and always wanted a little more.  Once I lost enough weight and got to the point to where I could run, I started off small and gradually increased my distance and speed.  I am still working on this always trying to improve and better my last record. <br />
+    I have just entered my first 1 mile fun run and will be entering a 5K run in October.</p>
+  </div>
+</div>
+<hr />
+    <div class="contact-me">
+    <h2>Get In Touch</h2>
+    <h3>Lorem ipsum dolor sit amet</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+    <a class="butn" href="mailto:randall.perkins01@gmail.com">CONTACT ME</a>
+    </div>
+  </div>
+<br />
+<div class="bottom">
+
+    <a class"footer-link" href="https://www.linkedin.com/in/randall-doc-perkins-3346221/">LinkedIn</a>
+    <a class"footer-link" href="https://www.facebook.com/doc.perkins">Facebook</a>
+    <a class"footer-link" href="https://www.twitter.com/#docperkins">Twitter</a>
+    <p class="copyright">© 2019 Randall Perkins @ Americna Airlines. </p>
+
+    </p>
+
+</div>
+
+
+</body>
+</html>
